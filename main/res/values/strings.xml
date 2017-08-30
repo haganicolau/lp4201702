@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Indroduction_LP4</string>
+    <string name="title_task">Action Task</string>
+    <string name="btn_remove">Remove</string>
+</resources>
