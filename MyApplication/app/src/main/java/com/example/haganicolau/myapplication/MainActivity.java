@@ -1,4 +1,4 @@
-package com.schoolofnet.tasklist;
+package com.example.haganicolau.myapplication;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -13,6 +13,8 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.example.haganicolau.myapplication.R;
 
 import java.util.ArrayList;
 import java.util.List;
