@@ -1,4 +1,4 @@
-package com.example.haganicolau.myapplication;
+package com.example.root.myapplication;
 
 import org.junit.Test;
 

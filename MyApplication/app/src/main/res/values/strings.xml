@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Tasklist</string>
-    <string name="menu_add_new_task">Add new task</string>
-    <string name="listview_complete_task">Remove</string>
+    <string name="app_name">My Application</string>
+    <string name="title_task">Action Task</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_new">New Activity</string>
+    <string name="title_task2">Nova Tarefa</string>
 </resources>
